@@ -36,3 +36,18 @@ input{
     margin: auto;
     display: block;
 }
+
+section{
+    display:flex;
+}
+
+.icon-text{
+    margin-left:50px;
+    text-align:center;
+}
+
+.icon{
+    position:absolute;
+    left:50%;
+    top:50%;
+}
