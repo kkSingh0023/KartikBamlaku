@@ -9,3 +9,30 @@ navbar{
 .navigation{
     margin-left:50px;
 }
+
+#pricing{
+    margin-right: 70px;
+}
+.maincontent{
+    margin-top: 40px;
+}
+.text{
+    text-align: center;
+    font-size: large;
+}
+input{
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.getstarted{
+    margin-top: 10px;
+    text-align: center;
+    background-color:#f1c40f;
+    padding: 3px;
+    width: 100px;
+    margin: auto;
+    display: block;
+}
