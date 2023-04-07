@@ -1,4 +1,5 @@
 body{
+    background-color:#eee;
 
 }
 navbar{
@@ -69,7 +70,7 @@ video{
 }
 
 .name1{
-     background-color: rgb(196, 193, 199);
+     background-color: #ddd;
      font-size: 20px;
      height: 30px;
      font-weight: bold;
@@ -81,6 +82,33 @@ button{
     width: 100px;
 }
 
+.footers{
+    display:flex;
+    justify-content:right;
+    margin-right: 20px;
+
+}
+
+.footer-text{
+    margin-right:10px;
+}
+
+.footers-2{
+    text-align:right;
+    display:flex;
+    justify-content: right;
+
+
+   
+}
+
+footer{
+    margin-top:10px;
+    margin-bottom:10px;
+    background-color: #ddd;
+    margin-left:50px;
+    margin-right:50px;
+}
 /* .icon-text{
     margin-left:50px;
     text-align:center;
