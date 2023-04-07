@@ -39,15 +39,59 @@ input{
 
 section{
     display:flex;
+    margin-left: 300px;
+    margin-right: 10px;
+    margin-top: 50px;
+}
+.cont1{
+    margin-left: 100px;
 }
 
-.icon-text{
+video{
+    margin-left: 400px;
+}
+
+.indivisualsoptions{
+    border: 2px solid black;
+    margin-left: 5px;
+    width: 250px;
+    height: 250px;
+    /* padding: 40px; */
+
+}
+
+.pricing{
+    display: flex;
+    justify-content: center;
+}
+.textcenterelements{
+    text-align: center;
+}
+
+.name1{
+     background-color: rgb(196, 193, 199);
+     font-size: 20px;
+     height: 30px;
+     font-weight: bold;
+}
+
+button{
+    background-color:#f1c40f;
+    padding: 3px;
+    width: 100px;
+}
+
+/* .icon-text{
     margin-left:50px;
     text-align:center;
-}
+} */
 
-.icon{
+/* .icon{
+   
+} */
+
+/* section{
     position:absolute;
     left:50%;
     top:50%;
-}
+} */
